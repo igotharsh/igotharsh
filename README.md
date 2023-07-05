@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Harsh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
--   Currently looking forward to join the workforce & work as a data scientist
+-   Currently looking forward to join the workforce & work as an analyst
 - 🎓 3rd Year Student in Computer Science from the KIIT University-BBI
 - 💼 I’m looking for an internship for Fall'23
 
