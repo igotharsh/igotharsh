@@ -11,7 +11,7 @@
 <br />
 
 [website]: https://kg16.github.io/
-[linkedin]: https://www.linkedin.com/in/kritigoyal16/
+[linkedin]: https://www.linkedin.com/in/harshkumar017/
 [instagram]: https://www.instagram.com/hharshkumarr/
 
 
